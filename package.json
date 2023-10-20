@@ -9,5 +9,11 @@
   "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.11"
+  },
+  "bin": {
+    "web-dev": "./index.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.2"
   }
 }
