@@ -1,0 +1,13 @@
+{
+  "name": "web-dev",
+  "version": "1.0.0",
+  "description": "My Web Dev CLI",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://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@github.com/MaarcusRenieroL/web-dev-templates.git",
+  "author": "Maarcus Reniero L",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.11"
+  }
+}
